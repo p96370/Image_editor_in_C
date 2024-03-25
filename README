@@ -1,6 +1,5 @@
-##### Copyright 2022 Elena Dulgheru 314CA (elenadulgheru03@gmail.com)
 # README check
-    *Structura temei:
+    *Structura proiectului:
     
     1.image_editor.c - contine functionalitatea programului, mai precis implementarea
         comenzilor cerute (LOAD, SELECT, ROTATE, ..)
